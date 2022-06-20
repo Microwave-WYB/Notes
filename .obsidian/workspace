@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "ed316a2c62a7ec8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c4fa0f03c53ab5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AI/Search_and_Reasoning/Introduction.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "82f01d7dabe7fecf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algorithm/Dijkstra's Algorithm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac7188ffce172b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "438ee5ff344bc25a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4af787ef65ca1d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e045a9db1678424f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22b05a057d2a057c",
+    "type": "split",
+    "children": [
+      {
+        "id": "474dfd09eb9a1924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfb6b72a5952d66d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/Search_and_Reasoning/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "60c4fa0f03c53ab5",
+  "lastOpenFiles": [
+    "AI/Search_and_Reasoning/Introduction.md",
+    "Algorithm/Dijkstra's Algorithm.md",
+    "README.md",
+    "Linux/troubleshoot.md"
+  ]
+}
