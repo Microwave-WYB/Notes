@@ -14,7 +14,7 @@
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Enter",
+  "selectSuggestionKeys": "Tab",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "None",
@@ -104,6 +104,46 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1655458372867
+        }
+      }
+    },
+    "Africa": {
+      "Africa": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1656437607515
+        }
+      }
+    },
+    "Ethics": {
+      "Ethics": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1656455659635
+        }
+      }
+    },
+    "harmed": {
+      "harmed": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1656456517572
+        }
+      }
+    },
+    "guidline": {
+      "guidline": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656456999229
+        }
+      }
+    },
+    "requires": {
+      "requires": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656457758512
         }
       }
     }

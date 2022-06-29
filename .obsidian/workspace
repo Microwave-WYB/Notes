@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AI/Search_and_Reasoning/Introduction.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "82f01d7dabe7fecf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algorithm/Dijkstra's Algorithm.md",
+            "file": "Data Science/Project1.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Search_and_Reasoning/Introduction.md",
+                "file": "Data Science/Project1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +84,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "60c4fa0f03c53ab5",
   "lastOpenFiles": [
+    "Data Science/Project1.md",
+    "Data Science/Lectures.md",
+    "Data Science/02_Ethics.pdf",
+    "Humanities/Discussion Notes.md",
+    "Humanities/Lectures.md",
     "AI/Search_and_Reasoning/Introduction.md",
     "Algorithm/Dijkstra's Algorithm.md",
     "README.md",
