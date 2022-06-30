@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Science/Project1.md",
+            "file": "Data Science/Lectures.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Science/Project1.md",
+                "file": "Data Science/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,9 @@
   },
   "active": "60c4fa0f03c53ab5",
   "lastOpenFiles": [
-    "Data Science/Project1.md",
     "Data Science/Lectures.md",
+    "Data Science/Project1.md",
+    "Data Science/04_Reproducibility.pdf",
     "Data Science/02_Ethics.pdf",
     "Humanities/Discussion Notes.md",
     "Humanities/Lectures.md",

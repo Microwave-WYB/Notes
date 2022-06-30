@@ -146,6 +146,46 @@
           "lastUpdated": 1656457758512
         }
       }
+    },
+    "Improve": {
+      "Improve": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656542547042
+        }
+      }
+    },
+    "available": {
+      "available": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656543873781
+        }
+      }
+    },
+    "Replicable": {
+      "Replicable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656545291443
+        }
+      }
+    },
+    "Replicability": {
+      "Replicability": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1656545296949
+        }
+      }
+    },
+    "Reproducibility": {
+      "Reproducibility": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1656545385888
+        }
+      }
     }
   }
 }

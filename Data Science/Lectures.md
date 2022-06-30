@@ -11,7 +11,7 @@ The Facebook Study (go through the slides for details...)
 ---
 
 ## The common Rule & Belmont Report
-The Belmont Report is an ethical guidline. 
+The Belmont Report is an ethical guidline.
 
 ## Informed Consent
 Individuals know:
@@ -53,7 +53,7 @@ gained from research.”
 ---
 
 ### When isn't consent required
-1. When minimal risk research can’t otherwise be conducted.  
+1. When minimal risk research can’t otherwise be conducted.
 or
 2. When an activity is designed to assure or improve quality rather than contribute to generalizable knowledge, in which case it doesn’t meet the Common Rule’s definition of “research,” (45 C.F.R. §46.102(d))
 
@@ -69,8 +69,78 @@ respect for persons’ autonomy.
 ---
 
 ## Before sharing the result of a project
-1. You’ve considered bias and ensured your conclusions are fair.  
-2. You’ve checked for mistakes.  
-3. Your work can not be used to harass people, especially minorities, in any way.  
-4. Your analysis is independent of your opinion about the specific problem you're trying to solve using data.  
+1. You’ve considered bias and ensured your conclusions are fair.
+2. You’ve checked for mistakes.
+3. Your work can not be used to harass people, especially minorities, in any way.
+4. Your analysis is independent of your opinion about the specific problem you're trying to solve using data.
 5. Can individuals be inadvertently identified through your project?
+
+
+---
+
+# 03 - Data Science Questions
+**Data Science questions should...**
+- **Be answerable with (available/attainable) data**
+- Specify what's being measured
+- Have relevancce to someone or something
+- Be specific
+
+## Example question
+Bad:
+	In Manhattan does Uber cause more traffic?
+Improved:
+	Is there a relationship between the amount of active Uber drivers and the average travel time in road segments in Manhattan?
+
+Good questions:
+- How many Model 3s will Tesla sell in San Diego during the third quarter?
+- How many students will apply for admission to UCSD in 2019?
+
+---
+
+# 04 - Reproducibility
+## Reproducibility
+- “re-performing the same analysis (with the same code) using a different analyst”
+
+**A study may fail to be reproduced because...**
+- Data nolonger available
+- Poor documentation
+- Code missing
+- Different methods, software versions, settings...
+
+
+## Replicability
+**Replicable Data Science**
+- “re-performing the experiment and collecting new data”
+
+Replicability is a lot harder than reproducibility
+
+**How do we define Reproducibility**
+- “The measurement can be obtained with stated precision by a different team using the same measurement procedure, the same measuring system, under the same operating conditions, in the same or a different location on multiple trials.”
+
+Why would a study fail to **replicate?**
+- Finding was not "real"
+- Measurement error
+- Variable finding
+- Samples comes from different population
+- Different experimental design or conditions
+- Fraud :(
+
+## Comformation Bias
+A cognitive bias wherein humans have a tendency to search for, interpret, favor, and recall information in a way that confirms one's preexisting beliefs or hypotheses.
+
+---
+
+# 05 - Programming
+
+Data Scientists:
+- excel at getting the data they need (SQL)
+- explore & clean the data (R, Python)
+- are very comfortable working with tabular data
+- prioritize reproducibility
+- program to accomplish a tast/answer a question
+
+---
+
+# 06 - Project Management
+
+Git stuff...
