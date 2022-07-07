@@ -144,3 +144,49 @@ Data Scientists:
 # 06 - Project Management
 
 Git stuff...
+
+---
+
+# 07 - Data
+
+- Gain familiarity with different data types i.e. variables
+- Learn about structured, semi-structured, unstructured data
+- What is a relational database and why joining data is key
+- Explore example projects that use different data types
+
+**Data:** anything that can be stored in a computer
+
+All of this data is made up of
+- Variables (statistical analysis)
+- Features (machine learning)
+
+## Data types
+
+- Quantitative: What you can measure objectively
+    - Integer, Discreate (1, 2, 3...)
+    - Continuous (0.1, 0.12, 0.3...)
+- Qualitative: What you can't easily measure
+    - Nominal, Discrete (Red, Blue, Green...)
+    - Ordinal (low, med, high)
+    - Character ("hellow")
+    - Binomial (T/F)
+
+## Structured, Semi-Structured, Unstructured Data
+
+- Semi-structured
+    - spreadsheets (tbular data)
+    - JSON, XML, CSV...
+- Structured
+    - relational databases (RDBMS) (use SQL to query)
+- Unstructured
+    - everything else (video, image, audio, texts)
+
+### Relational Databases: a set of independent tables
+
+1. Efficient Data Storage
+2. Avoid Ambiguity
+3. Increase Data Privacy
+4. Based on Relational Algebra
+
+# 08 - Getting Data
+
